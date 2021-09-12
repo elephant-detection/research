@@ -14,7 +14,7 @@ The repository aids to collect an evaluate different methods of elephant detecti
 
 The aim of this research is to find methods for **non-invasive** methods only, since the system we develop should be deployed in such a way that it does not change the behaviour of the elephants in their natural habitat in any way.
 
-## Evalutation Criteria
+# Evalutation Criteria
 For a method to be selected for evaluation it needs to present certain acceptance criteria.
 
 1. It needs to be described in a written summary or scientific paper
@@ -24,7 +24,7 @@ For a method to be selected for evaluation it needs to present certain acceptanc
 5. It needs to show sufficient evaluation results in the research ( we want to pick a method that looks promising to succesfully detect elephants and not mis-detect humans/other animals for elephants)
 
 
-## Questions & Feedback
+# Questions & Feedback
 
 For questions, inputs or any other kind of feedback please use the *Github Issues* Feature and create a new Issue
 
