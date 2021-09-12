@@ -3,7 +3,7 @@
 The repository aids to collect an evaluate different methods of elephant detection. Elephant detection can be done in many different ways, e.g.
 
 ## Invasive
-- Sensors attached to the anmilas
+- Sensors attached to the animals
 
 ## Non-Invasive
 - Visual (Cameras/ Sensors)
