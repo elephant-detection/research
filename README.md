@@ -31,3 +31,10 @@ For questions, inputs or any other kind of feedback please use the *Github Issue
 ![image](https://user-images.githubusercontent.com/11522213/132982826-187d5ff7-4e8c-49a3-93c3-0a54823b85eb.png)
 
 
+
+# License
+
+Creative Commons Attribution-ShareAlike 4.0 International
+![cc](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
+
+Please see `License.md` file
