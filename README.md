@@ -35,6 +35,7 @@ For questions, inputs or any other kind of feedback please use the *Github Issue
 # License
 
 Creative Commons Attribution-ShareAlike 4.0 International
+
 ![cc](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
 
 Please see `License.md` file
